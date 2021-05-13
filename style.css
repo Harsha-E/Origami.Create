@@ -1,0 +1,87 @@
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+  canvas {
+    display: block;
+  }
+  
+.gfg {
+    margin: 3%;
+    position: relative;
+}
+
+.first-txt {
+  position: absolute;
+  top: 100px;
+  left: 380px;
+  font-size: xx-large;
+}
+
+.SubText {
+  position: absolute;
+  top: 180px;
+  right : 100px;
+  padding-left: 220px;
+ padding-right: 220px;
+ font-size: large;
+  
+}
+
+.SText {
+  position: absolute;
+  top: 280px;
+  right : 100px;
+  padding-left: 220px;
+ padding-right: 220px;
+ font-size: large;
+
+}
+
+.Description1 {
+  position: absolute;
+  top: 410px;
+  right : 550px;
+  padding-left: 370px;
+ padding-right: 200px;
+ font-size: large;
+
+}
+
+.Description2 {
+  position: absolute;
+  top: 410px;
+  right : 80px;
+  padding-left: 700px;
+ padding-right: 370px;
+ font-size: large;
+
+}
+
+.Animals {
+  position: absolute;
+  top: 520px;
+  right : 580px;
+  padding-left: 220px;
+ padding-right: 220px;
+
+}
+
+.Nature {
+  position: absolute;
+  top: 520px;
+  right : 250px;
+  padding-left: 220px;
+ padding-right: 220px;
+
+}
+
+    #headerPopup{
+    width: 620px;
+    margin:0 auto;
+  }
+  
+  #headerPopup iframe{
+    width:100%;
+    margin:0 auto;
+  }
